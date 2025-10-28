@@ -31,10 +31,10 @@
 &nbsp;
 | Проект | Описание | Инструменты |
 |--------|----------|-------------|
-| [Анализ поведения в магазине косметики]([https://github.com/твойник/cosmetics-shop-analysis](https://github.com/Mara-Kh/eCommerce_Events_History_in_Cosmetics_Shop)) | Исследование пользовательской активности, построение воронки продаж, поиск точек роста. | SQL (SQLite), Python (matplotlib, seaborn), Jupyter Notebook |
-| [Marketing A/B-testing]([https://github.com/твойник/marketing-ab-test](https://github.com/Mara-Kh/marketing-a-b-testing)) | Анализ влияния рекламы на конверсию, сравнение групп, оценка по дням недели. | Python (pandas, numpy, seaborn, matplotlib), статистика (proportions_ztest, Wilson CI) |
-| [Retail Rocket Cohort Analysis]([https://github.com/твойник/retail-rocket-cohort](https://github.com/Mara-Kh/Retail-Rocket-Cohort-Analysis)) | Изучение удержания пользователей интернет-магазина на основе событийных данных. | Python (pandas, numpy, seaborn, matplotlib), Jupyter Notebook |
-| [Adidas US Sales Analysis]([https://github.com/твойник/adidas-sales-excel](https://github.com/Mara-Kh/Adidas-US-Sales-Dataset-Analys)) | Анализ продаж Adidas в США: выручка, прибыль, маржа, сезонность и категории товаров. | Excel (Pivot Tables, формулы, визуализация) |
+| [Анализ поведения пользователей в магазине косметики](https://github.com/твойник/cosmetics-shop-analysis](https://github.com/Mara-Kh/eCommerce_Events_History_in_Cosmetics_Shop) | Исследование пользовательской активности, построение воронки продаж, поиск точек роста. | SQL (SQLite), Python (matplotlib, seaborn), Jupyter Notebook |
+| [Marketing A/B-testing](https://github.com/твойник/marketing-ab-test](https://github.com/Mara-Kh/marketing-a-b-testing) | Анализ влияния рекламы на конверсию, сравнение групп, оценка по дням недели. | Python (pandas, numpy, seaborn, matplotlib), статистика (proportions_ztest, Wilson CI) |
+| [Retail Rocket Cohort Analysis](https://github.com/твойник/retail-rocket-cohort](https://github.com/Mara-Kh/Retail-Rocket-Cohort-Analysis) | Изучение удержания пользователей интернет-магазина на основе событийных данных. | Python (pandas, numpy, seaborn, matplotlib), Jupyter Notebook |
+| [Adidas US Sales Analysis](https://github.com/твойник/adidas-sales-excel](https://github.com/Mara-Kh/Adidas-US-Sales-Dataset-Analys) | Анализ продаж Adidas в США: выручка, прибыль, маржа, сезонность и категории товаров. | Excel (Pivot Tables, формулы, визуализация) |
 
 &nbsp;
 ### Контакты
