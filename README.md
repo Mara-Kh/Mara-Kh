@@ -20,7 +20,7 @@
   - **SQL** (PostgreSQL, SQLite): аналитические запросы, оконные функции, подзапросы, CTE, агрегирование, фильтрация, сортировка  
   - **Python:** pandas, numpy, matplotlib, seaborn, scipy, statsmodels, pingouin  
 
-- **BI и визуализация:** Excel, Power BI, Tableau, Apache Superset, Redash  
+- **BI и визуализация:** Excel, Google Sheets, Power BI, Tableau, Apache Superset, Redash
 
 - **Инструменты:**  
   - **Jupyter Notebook:** интерактивный анализ данных и визуализация  
